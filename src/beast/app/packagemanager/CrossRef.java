@@ -13,6 +13,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
+ * Pass one or many dois to Crossref to get publication(s) metadata.
+ * http://www.crossref.org/
  * @author Walter Xie
  */
 public class CrossRef {
